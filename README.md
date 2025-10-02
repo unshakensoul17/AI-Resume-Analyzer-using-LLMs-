@@ -12,7 +12,7 @@ It parses resumes (`PDF`, `DOCX`, `TXT`) and scores them based on skills, experi
 - Resume scoring engine (skills, education, projects, formatting)
 - REST API endpoints via FastAPI
 - Deployable in Colab using ngrok
-
+- Also used for improving the resume.
 ---
 
 ## 📦 Installation
